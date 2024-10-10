@@ -7,8 +7,7 @@ Lorena Barba [https://orcird.org/0000-0001-5812-2711](https://orcird.org/0000-00
 Sayeed Choudhury [https://orcid.org/0000-0003-2891-0543](https://orcid.org/0000-0003-2891-0543)  
 Ciara Flanagan [https://orcid.org/0009-0005-3153-7673](https://orcid.org/0009-0005-3153-7673)  
 David Lippert [https://orcid.org/0009-0003-6444-9595](https://orcid.org/0009-0003-6444-9595)  
-Richard Littauer\* [https://orcid.org/0000-0001-5428-7535](https://orcid.org/0000-0001-5428-7535)  
-*Version 1.0*
+Richard Littauer\* [https://orcid.org/0000-0001-5428-7535](https://orcid.org/0000-0001-5428-7535)
 
 Over the last 20 years, Open Source Program Offices (OSPOs) have become a relatively common feature in major tech companies and other industries. Many businesses rely upon their OSPOs to manage open source software efforts within their organizations. Industry OSPOs also have other functions including developing guidelines and policies on use of open source; contributing to the open source ecosystem; and ensuring alignment with corporate strategy and vision.
 
@@ -325,7 +324,7 @@ However, Provost’s offices do not typically provide services directly so it wo
 
 ### *How Will the OSPO Secure Resources?*
 
-In any case, it is essential to identify a group that can allocate resources or make a compelling case for new resources from the base budget. While grant funding can initiate or generate specific activities for an OSPO, it can run the risk of a path dependence that could limit the (at least perceived) value of the OSPO or make it difficult to sustain programs after an initial burst of activity. Nonetheless, there are instances where such funding (either through grants or base budgets) can provide the impetus to move forward with at least the beginnings or components of an OSPO. The next section describes some early case studies of these specific interests or projects that span research, education, translation, and community engagement. 
+In any case, it is essential to identify a group that can allocate resources or make a compelling case for new resources from the base budget. While grant funding can initiate or generate specific activities for an OSPO, it can run the risk of a path dependence that could limit the (at least perceived) value of the OSPO or make it difficult to sustain programs after an initial burst of activity. Nonetheless, there are instances where such funding (either through grants or base budgets) can provide the impetus to move forward with at least the beginnings or components of an OSPO. 
 
 ### *How Will the OSPO Engage With the Broader OSPO Community?*
 
