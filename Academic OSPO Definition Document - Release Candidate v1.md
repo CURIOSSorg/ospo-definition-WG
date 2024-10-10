@@ -7,15 +7,17 @@ Lorena Barba [https://orcird.org/0000-0001-5812-2711](https://orcird.org/0000-00
 Sayeed Choudhury [https://orcid.org/0000-0003-2891-0543](https://orcid.org/0000-0003-2891-0543)  
 Ciara Flanagan [https://orcid.org/0009-0005-3153-7673](https://orcid.org/0009-0005-3153-7673)  
 David Lippert [https://orcid.org/0009-0003-6444-9595](https://orcid.org/0009-0003-6444-9595)  
-Richard Littauer [https://orcid.org/0000-0001-5428-7535](https://orcid.org/0000-0001-5428-7535)
+Richard Littauer\* [https://orcid.org/0000-0001-5428-7535](https://orcid.org/0000-0001-5428-7535)  
+*Version 1.0*
 
 Over the last 20 years, Open Source Program Offices (OSPOs) have become a relatively common feature in major tech companies and other industries. Many businesses rely upon their OSPOs to manage open source software efforts within their organizations. Industry OSPOs also have other functions including developing guidelines and policies on use of open source; contributing to the open source ecosystem; and ensuring alignment with corporate strategy and vision.
 
 As open source software continues to grow in importance in academic settings; universities and other academic institutions are looking to enhance their open source capabilities by establishing **academic OSPOs**. This article provides a short overview of the current findings of a sub-committee of [CURIOSS](https://curioss.org/) members who are collaborating to develop, refine and expand upon the definition of an academic OSPO.
 
-This document is versioned. This is version 1.0. Additions, thoughts, and comments are encouraged\! Reach out to [info@curioss.org](mailto:info@curioss.org). 
+This document is versioned. Additions, thoughts, and comments are encouraged\! Conversations are encouraged through any CURIOSS.org channels, or through the [GitHub archive](https://github.com/CURIOSSorg/ospo-definition-WG) for this document.
 
-This document is licensed under a [Creative Commons 4.0 CC-BY International](https://creativecommons.org/licenses/by/4.0/) license.
+This document is licensed under a [Creative Commons 4.0 CC-BY International](https://creativecommons.org/licenses/by/4.0/) license.  
+Corresponding author: [richard.littauer@vuw.ac.nz](mailto:richard.littauer@vuw.ac.nz). 
 
 ## Section 1 \- What is an Academic OSPO?
 
