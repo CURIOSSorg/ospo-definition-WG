@@ -6,7 +6,11 @@ In order to promote collaboration, we're not limiting comments to the Google Doc
 
 ## Academic OSPO Definition Document
 
-This document has been uploaded to Zenodo.
+This document has been uploaded to Zenodo: https://zenodo.org/records/13910683.
+
+To cite this document:
+
+> Young, J., Barba, L. A., Choudhury, S., Flanagan, C., Lippert, D., & Littauer, R. (2024). A Definition of an Academic OSPO (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.13910683
 
 ## Collaborate
 
